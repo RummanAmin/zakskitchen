@@ -4,7 +4,7 @@
   <p>Thank you for reading this post. Please help me by sharing it with your friends!</p>
   <ul class="share-links">
     <li>
-      <a href="http://twitter.com/share?text=<?php echo urlencode(the_title()); ?>&url=<?php echo urlencode(the_permalink()); ?>&via=rumantweets&related=<?php echo urlencode("Digital Project Management, Web Design, Web Development"); ?>" title="Share on Twitter" rel="nofollow" target="_blank" class="link-tw">Twitter</a>
+      <a href="http://twitter.com/share?text=<?php echo urlencode(the_title()); ?>&url=<?php echo urlencode(the_permalink()); ?>&via=zaks_kitchen&related=<?php echo urlencode("Indian Restaurant in Weston-Super-Mare"); ?>" title="Share on Twitter" rel="nofollow" target="_blank" class="link-tw">Twitter</a>
     </li>
     <li>
       <a target="_blank" href="http://www.facebook.com/sharer.php?u=<?php the_permalink();?>&t=<?php the_title(); ?>" class="link-fb">Facebook</a>
