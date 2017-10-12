@@ -10,7 +10,7 @@
 <?php endif; ?>
 
 
-<div class="band background-intro" style="background-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url('<?php echo $image; ?>')">
+<div class="band banner" style="background-image: radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url('<?php echo $image; ?>')">
   <section class="layout">
     <div class="section-heading">
       <h1><?php the_title(); ?></h1>
