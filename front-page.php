@@ -46,7 +46,9 @@
   <div class="band food-menu" name="food-menu">
     <section class="layout">
       <div class="section-heading"><h2>Our Menu</h2>
-      <p>Explore texture, colour and the ultimate Indian flavours from our hand crafted  menu. All ingredients are fresh and carefully selected by our chefs. We hope you enjoy an extraordinary dining experience. </p></div>
+      <p>Explore texture, colour and the ultimate Indian flavours from our hand crafted  menu. All ingredients are fresh and carefully selected by our chefs. We hope you enjoy an extraordinary dining experience. </p>
+      <p class="takeaway">Takeaway prices in <span>Orange</span></p>
+      </div>
       <div id="accordion">
         <div class="accordion-main">
           <div class="accordion-item">
@@ -243,7 +245,7 @@
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Achari goste <span>£8.50</span></li>
+                    <li>Achari goste <span>£8.95/<span style="color: #ffb53f;">£8.50</span></span></li>
                     <li>Roasted lamb pieces with mint, garlic and ginger then added with pimento and coriander cooked tomato - absolutely yummy</li>
                   </ul>
                 </li>
@@ -267,19 +269,19 @@
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Lamb Sondia <span>£7.20</span></li>
+                    <li>Lamb Sondia <span>£7.50/<span style="color: #ffb53f;">£7.20</span></span></li>
                     <li>Off the bone pieces of lean lamb cooked in authentic bhuna sauce with ginger, garlic curry leaves green chilli coriander</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Chicken Piyza <span>£7.20</span></li>
+                    <li>Chicken Piyza <span>£7.50/<span style="color: #ffb53f;">£7.20</span></span></li>
                     <li>Small pieces of chicken with mushrooms, onions and peppers, fairly hot with green chillies</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Butter chicken <span>£7.20</span></li>
+                    <li>Butter chicken <span>£7.50/<span style="color: #ffb53f;">£7.20</span></span></li>
                     <li>Chicken marinated with yogurt and spices, roasted in tandoori then cooked in rich tomato sauce finished with touch of cream</li>
                   </ul>
                 </li>
@@ -303,8 +305,14 @@
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Duck Hasina <span>£9.95</span></li>
+                    <li>Duck Hasina <span>£12.50/<span style="color: #ffb53f;">£9.95</span></span></li>
                     <li>Bangalore style curry with spiced fried onions in a delicious sauce with peppers and touch of coconut</li>
+                  </ul>
+                </li>
+                <li>
+                  <ul class="food-item">
+                    <li>Seabass Molly <span>£12.50</span></li>
+                    <li>Crispy skin seabass fillet sauce of coconut, garlic, ginger, curry leaves and a hint of chilli. Served with white rice and galic spinach. <strong>Restaurant only</strong></li>
                   </ul>
                 </li>
               </ul>
@@ -318,19 +326,19 @@
               <ul>
                 <li>
                   <ul class="food-item">
-                    <li>Tandoori chicken <span>£6.95</span></li>
+                    <li>Tandoori chicken <span>£7.10/<span style="color: #ffb53f;">£6.95</span></span></li>
                     <li>Succulent pieces of on the bone chicken</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Chicken tikka <span>£7.00</span></li>
+                    <li>Chicken tikka <span>£7.10/<span style="color: #ffb53f;">£7.00</span></span></li>
                     <li>Tender pieces of diced chicken</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Lamb tikka <span>£7.30</span></li>
+                    <li>Lamb tikka <span>£7.50/<span style="color: #ffb53f;">£7.30</span></span></li>
                     <li>Tender pieces of diced lamb</li>
                   </ul>
                 </li>
@@ -354,13 +362,13 @@
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Seafood Plater <span>£12.50</span></li>
+                    <li>Seafood Plater <span>£11.50/<span style="color: #ffb53f;">£12.50</span></span></li>
                     <li>Homemade fish cake, chilli fried squid, Tandoori salmon and king prawn</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Tandoori king prawn <span>£10.95</span></li>
+                    <li>Tandoori king prawn <span>£11.50/<span style="color: #ffb53f;">£10.95</span></span></li>
                     <li>Jumbo king prawn marinated in hang yogurt special spice garnished with peppers</li>
                   </ul>
                 </li>
@@ -381,7 +389,7 @@
               <ul>
                 <li>
                   <ul class="food-item">
-                    <li>Chicken Biryani <span>£7.10</span></li>
+                    <li>Chicken Biryani <span>£7.20/<span style="color: #ffb53f;">£7.10</span></span></li>
                   </ul>
                 </li>
                   <li>
@@ -406,7 +414,7 @@
                   </li>
                   <li>
                     <ul class="food-item">
-                      <li>Speical biryani <span>£8.95</span></li>
+                      <li>Speical biryani <span>£9.20/<span style="color: #ffb53f;">£8.95</span></span></li>
                       <li>Chicken tikka, lamb tikka and prawns</li>
                     </ul>
                   </li>
@@ -426,13 +434,13 @@
               <ul>
                 <li>
                   <ul class="food-item">
-                    <li>Tikka Makon Malai <span>£7.10</span></li>
+                    <li>Tikka Makon Malai <span>£7.20/<span style="color: #ffb53f;">£7.10</span></span></li>
                     <li>Chicken or lamb cooked in a creamy sauce with cheese</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Bombay masala <span>£7.10</span></li>
+                    <li>Bombay masala <span>£7.95/<span style="color: #ffb53f;">£7.10</span></span></li>
                     <li>Chicken or lamb tikka cooked with minced meat onion peppers and potato</li>
                   </ul>
                 </li>
@@ -477,57 +485,57 @@
               <ul>
                 <li>
                   <ul class="food-item">
-                    <li>Pilou Rice <span>£3.10</span></li>
+                    <li>Pilou Rice <span>£2.60/<span style="color: #ffb53f;">£2.40</span></span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Boiled Rice <span>£3.10</span></li>
+                    <li>Boiled Rice <span>£2.20/<span style="color: #ffb53f;">£2.00</span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Special Rice <span>£3.10</span></li>
+                    <li>Special Rice <span>£3.20/<span style="color: #ffb53f;">£3.10</span></span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Mushroom Rice <span>£3.10</span></li>
+                    <li>Mushroom Rice <span>£3.20/<span style="color: #ffb53f;">£3.10</span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Lemon Rice <span>£3.10</span></li>
+                    <li>Lemon Rice <span>£3.20/<span style="color: #ffb53f;">£3.10</span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Coconut Rice <span>£3.10</span></li>
+                    <li>Coconut Rice <span>£3.20/<span style="color: #ffb53f;">£3.10</span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Fried Rice <span>£3.10</span></li>
+                    <li>Fried Rice <span>£3.20/<span style="color: #ffb53f;">£3.10</span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Vegetable Rice <span>£3.10</span></li>
+                    <li>Vegetable Rice <span>£3.20/<span style="color: #ffb53f;">£3.10</span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Peshwari Rice <span>£3.10</span></li>
+                    <li>Peshwari Rice <span>£3.20/<span style="color: #ffb53f;">£3.10</span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Keema Rice <span>£3.20</span></li>
+                    <li>Keema Rice <span>£3.20/<span style="color: #ffb53f;">£3.50</span></li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Egg Rice <span>£3.10</span></li>
+                    <li>Egg Rice <span>£3.20/<span style="color: #ffb53f;">£3.10</span></li>
                   </ul>
                 </li>
               </ul>
@@ -542,146 +550,236 @@
                 <table class="traditional-dishes">
                   <tr>
                     <th></th>
-                    <th>Chicken<br>Tikka + 60p</th>
-                    <th>Lamb<br>Tikka + 60p</th>
-                    <th>Veg</th>
-                    <th>Duck</th>
-                    <th>King Prawn</th>
-                    <th>Prawn</th>
+                    <th colspan="2">Chicken<br><small>(Tikka + 60p)</small></th>
+                    <th colspan="2">Lamb<br><small>(Tikka + 60p)</small></th>
+                    <th colspan="2">Veg</th>
+                    <th colspan="2">Duck</th>
+                    <th colspan="2">King Prawn</th>
+                    <th colspan="2">Prawn</th>
                   </tr>
                   <tr>
-                    <td>Curry</td>
+                    <td>Curry<br><small>Medium dish</small></td>
+                    <td>5.95</td>
                     <td>5.95</td>
                     <td>6.20</td>
+                    <td>6.20</td>
+                    <td>5.30</td>
                     <td>5.50</td>
+                    <td>8.95</td>
+                    <td>9.50</td>
                     <td>9.50</td>
                     <td>9.95</td>
+                    <td>6.50</td>
                     <td>6.60</td>
                   </tr>
                   <tr>
-                    <td>Madras</td>
+                    <td>Madras<br><small>Fairly hot</small></td>
+                    <td>7.10</td>
                     <td>5.95</td>
+                    <td>7.30</td>
                     <td>6.20</td>
                     <td>5.50</td>
+                    <td>5.50</td>
+                    <td>8.95</td>
+                    <td>9.50</td>
                     <td>9.50</td>
                     <td>9.95</td>
                     <td>6.50</td>
-                  </tr>
-                  <tr>
-                    <td>Vindaloo</td>
-                    <td>5.95</td>
-                    <td>6.20</td>
-                    <td>5.50</td>
-                    <td>9.50</td>
-                    <td>9.95</td>
                     <td>6.50</td>
                   </tr>
                   <tr>
-                    <td>Korma</td>
+                    <td>Vindaloo<br><small>Very hot with potato</small></td>
+                    <td>7.10</td>
+                    <td>5.95</td>
+                    <td>7.30</td>
+                    <td>6.20</td>
+                    <td>5.50</td>
+                    <td>5.50</td>
+                    <td>8.95</td>
+                    <td>9.50</td>
+                    <td>9.50</td>
+                    <td>9.95</td>
+                    <td>6.50</td>
+                    <td>6.50</td>
+                  </tr>
+                  <tr>
+                    <td>Korma<br><small>Very mild with coconut and almonds</small></td>
+                    <td>7.10</td>
                     <td>6.10</td>
+                    <td>7.30</td>
                     <td>6.50</td>
+                    <td>5.95</td>
                     <td>5.50</td>
                     <td>9.95</td>
                     <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
                     <td>6.50</td>
                   </tr>
                   <tr>
-                    <td>Passanda</td>
+                    <td>Passanda<br><small>Very mild with almonds and coconuts</small></td>
+                    <td>7.20</td>
                     <td>6.50</td>
+                    <td>7.30</td>
                     <td>6.94</td>
+                    <td>5.95</td>
                     <td>5.50</td>
                     <td>9.95</td>
                     <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
                     <td>6.20</td>
                   </tr>
                   <tr>
                     <td>Tikka Masala</td>
+                    <td>7.50</td>
                     <td>7.10</td>
+                    <td>7.50</td>
                     <td>7.20</td>
+                    <td>5.95</td>
                     <td>5.50</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
                     <td>9.95</td>
                     <td>9.95</td>
                     <td>6.95</td>
-                  </tr>
-                  <tr>
-                    <td>Bhuna</td>
-                    <td>5.95</td>
-                    <td>6.20</td>
-                    <td>5.50</td>
-                    <td>9.95</td>
-                    <td>9.95</td>
-                    <td>6.20</td>
-                  </tr>
-                  <tr>
-                    <td>Sagwala</td>
-                    <td>6.10</td>
-                    <td>6.20</td>
-                    <td>5.50</td>
-                    <td>9.95</td>
-                    <td>9.95</td>
-                    <td>6.20</td>
-                  </tr>
-                  <tr>
-                    <td>Jalfrezi</td>
-                    <td>6.50</td>
-                    <td>6.70</td>
-                    <td>5.50</td>
-                    <td>9.95</td>
-                    <td>9.95</td>
-                    <td>6.70</td>
-                  </tr>
-                  <tr>
-                    <td>Balti</td>
-                    <td>6.50</td>
-                    <td>6.70</td>
-                    <td>5.95</td>
-                    <td>9.95</td>
-                    <td>9.95</td>
-                    <td>6.70</td>
-                  </tr>
-                  <tr>
-                    <td>Kariah</td>
-                    <td>6.50</td>
-                    <td>6.70</td>
-                    <td>5.95</td>
-                    <td>9.95</td>
-                    <td>9.95</td>
-                    <td>6.70</td>
-                  </tr>
-                  <tr>
-                    <td>Pathia</td>
-                    <td>6.50</td>
-                    <td>6.70</td>
-                    <td>5.95</td>
-                    <td>9.95</td>
-                    <td>9.95</td>
                     <td>6.95</td>
                   </tr>
                   <tr>
-                    <td>Dopiaz</td>
+                    <td>Bhuna<br><small>Dry and spicy with onion</small></td>
+                    <td>7.10</td>
                     <td>5.95</td>
+                    <td>7.30</td>
                     <td>6.20</td>
                     <td>5.95</td>
+                    <td>5.50</td>
                     <td>9.95</td>
                     <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
                     <td>6.20</td>
                   </tr>
                   <tr>
-                    <td>Rogan</td>
+                    <td>Sagwala<br><small>Medium dry and spicy with spinnach</small></td>
+                    <td>7.10</td>
                     <td>6.10</td>
-                    <td>6.50</td>
+                    <td>7.30</td>
+                    <td>6.20</td>
                     <td>5.95</td>
+                    <td>5.50</td>
                     <td>9.95</td>
                     <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
+                    <td>6.20</td>
+                  </tr>
+                  <tr>
+                    <td>Jalfrezi<br><small>Cooked with onions peppers and green chilies</small></td>
+                    <td>7.20</td>
+                    <td>6.50</td>
+                    <td>7.30</td>
+                    <td>6.70</td>
+                    <td>5.95</td>
+                    <td>5.50</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
                     <td>6.70</td>
                   </tr>
                   <tr>
-                    <td>Dansak</td>
-                    <td>6.10</td>
+                    <td>Balti<br><small>Bhuna style sauce pickling taste</small></td>
+                    <td>7.20</td>
                     <td>6.50</td>
+                    <td>7.30</td>
+                    <td>6.70</td>
+                    <td>5.95</td>
                     <td>5.95</td>
                     <td>9.95</td>
                     <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
+                    <td>6.70</td>
+                  </tr>
+                  <tr>
+                    <td>Kariah<br><small>Cooked with peppers, onion and tomatoes</small></td>
+                    <td>7.20</td>
+                    <td>6.50</td>
+                    <td>7.30</td>
+                    <td>6.70</td>
+                    <td>5.95</td>
+                    <td>5.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
+                    <td>6.95</td>
+                  </tr>
+                  <tr>
+                    <td>Pathia<br><small>Sweet and sour, hot</small></td>
+                    <td>7.10</td>
+                    <td>6.50</td>
+                    <td>7.30</td>
+                    <td>6.70</td>
+                    <td>5.95</td>
+                    <td>5.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
+                    <td>6.95</td>
+                  </tr>
+                  <tr>
+                    <td>Dopiaz<br><small>Bangalore style curry with spicy fried onions in a delicious sauce</small></td>
+                    <td>7.10</td>
+                    <td>5.95</td>
+                    <td>7.30</td>
+                    <td>6.20</td>
+                    <td>5.95</td>
+                    <td>5.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
+                    <td>6.20</td>
+                  </tr>
+                  <tr>
+                    <td>Rogan<br><small>Medium spicy with tomato base sauce</small></td>
+                    <td>7.10</td>
+                    <td>6.10</td>
+                    <td>7.30</td>
+                    <td>6.50</td>
+                    <td>5.95</td>
+                    <td>5.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
+                    <td>6.70</td>
+                  </tr>
+                  <tr>
+                    <td>Dansak<br><small>With lentils, sweet, sour and hot</small></td>
+                    <td>7.10</td>
+                    <td>6.10</td>
+                    <td>7.30</td>
+                    <td>6.50</td>
+                    <td>5.95</td>
+                    <td>5.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>9.95</td>
+                    <td>6.95</td>
                     <td>6.95</td>
                   </tr>
                 </table>
@@ -691,7 +789,7 @@
           <div class="accordion-item">
             <input type="checkbox" checked>
             <i></i>
-            <h3>Sundried</h3>
+            <h3>Sundries</h3>
             <div class="menu-section">
               <ul>
                 <li>
@@ -810,79 +908,79 @@
               <ul>
                 <li>
                   <ul class="food-item">
-                    <li>Mushroom Bhaji <span>£3.10</span></li>
+                    <li>Mushroom Bhaji <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Chopped mushrooms in spices</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Shak aloo <span>£3.10</span></li>
+                    <li>Shak aloo <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Spinach and potato</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Shak bhaji <span>£3.10</span></li>
+                    <li>Shak bhaji <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Spinach with garlic</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Bendi bhaji <span>£3.10</span></li>
+                    <li>Bendi bhaji <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Okra in spices</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Aloo gobi <span>£3.10</span></li>
+                    <li>Aloo gobi <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Potatoes and cauliflower</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Shak paneer <span>£3.10</span></li>
+                    <li>Shak paneer <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Spinach and cheese</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Taka dhal <span>£3.10</span></li>
+                    <li>Taka dhal <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Garlic and lentils</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Shak dhal <span>£3.10</span></li>
+                    <li>Shak dhal <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Spinach and lentils</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Phool gobi <span>£3.10</span></li>
+                    <li>Phool gobi <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Cauliflower in spices</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Baigon bortha <span>£3.10</span></li>
+                    <li>Baigon bortha <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Crushed, roasted aubergines in spices</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Bombay Aloo <span>£3.10</span></li>
+                    <li>Bombay Aloo <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Potatoes in spices</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Chana Masala <span>£3.10</span></li>
+                    <li>Chana Masala <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Chickpeas in spices</li>
                   </ul>
                 </li>
                 <li>
                   <ul class="food-item">
-                    <li>Spicy tomatoes bhaji <span>£3.10</span></li>
+                    <li>Spicy tomatoes bhaji <span>£3.40/<span style="color: #ffb53f;">£3.10</span></li>
                     <li>Tomatoes in spices</li>
                   </ul>
                 </li>
