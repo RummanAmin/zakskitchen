@@ -13,7 +13,7 @@
   <div class="band intro">
     <section class="layout">
       <article>
-        <h4>Delivery & Takeaway</h4>
+        <h4>Restaurant & Delivery</h4>
         <p>Call us on <a href="tel:0193 4752 005" target="_self">+44 (0) 193 4752 005</a> to place your order. Delivery available within 3 miles on orders over £10</p>
       </article>
       <article>
