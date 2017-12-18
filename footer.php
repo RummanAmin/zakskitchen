@@ -10,6 +10,7 @@
                 BS22 6HQ
               </address>
             </a>
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FZaks-Indian-kitchen-298970490619022%2F&width=73&layout=button_count&action=like&size=small&show_faces=false&share=false&height=21&appId=311718075839853" width="73" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
           </article>
           <article>
             <h4>Reservations</h4>
