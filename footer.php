@@ -5,7 +5,7 @@
             <h4>Address</h4>
             <a href="https://www.google.com/maps/dir/Current+Location/133+Worle+High+Street+BS226HQ" target="_blank">
                 <address>
-                113 Worle High Street,
+                133 Worle High Street,
                 Weston-Super-Mare,
                 BS22 6HQ
               </address>

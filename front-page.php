@@ -47,7 +47,7 @@
     <section class="layout">
       <div class="section-heading"><h2>Our Menu</h2>
       <p>Explore texture, colour and the ultimate Indian flavours from our hand crafted  menu. All ingredients are fresh and carefully selected by our chefs. We hope you enjoy an extraordinary dining experience. </p>
-      <p class="takeaway">Takeaway prices in <span>Orange</span></p>
+      <p class="takeaway">Home delivery prices in <span>Orange</span></p>
       </div>
       <div id="accordion">
         <div class="accordion-main">
